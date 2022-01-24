@@ -1,0 +1,48 @@
+html {
+  font-size: 10px;
+  font-family: "Oswald:wght@300&display=swap", sans-serif;
+}
+
+html {
+  background-image: url("https://free4kwallpapers.com/uploads/wallpaper/minimalist-nature-scene-wallpaper-2560x1440-wallpaper.jpg");
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+
+ }
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+ }
+
+h2, h3 {
+  font-size: 25px;
+  }
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 3px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #ffeb7f;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px; 
+}
+
+
